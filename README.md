@@ -1,19 +1,19 @@
 # __Model hyperparameter optimization__
 
 ### __Contents__
-[1. Description](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#contents)<br>
+[1. Description](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#1-description)<br>
 
 [2. Target metric](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#2-target-metric)
 
-[3. Tasks](https://github.com/Alekaran/SF-DS-Alekaran/blob/main/project_0/my_game/ReadMe.md#2-%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)<br>
+[3. Tasks](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#3-tasks)<br>
 
-[4. About data]()<br>
+[4. About data](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#4-about-data)<br>
 
-[5. Stages]()<br>
+[5. Stages](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#5-stages)<br>
 
-[6. Results]()<br>
+[6. Results](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#6-results)<br>
 
-[7. Conclusion](https://github.com/Alekaran/SF-DS-Alekaran/blob/main/project_0/my_game/)<br>
+[7. Conclusion](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#conclusion)<br>
 
 ![](https://miro.medium.com/max/1400/1*2gsysrNnSD-n8HDCHmpZFw.jpeg)
 
@@ -45,7 +45,7 @@ The data is presented in CSV format. Each line represents a molecule.
 ### **6. Results**
 With the help of optimization algorithms, it was possible to increase the result on the target metric relative to the baseline.
 
-### **Conclusion**
+### **7. Conclusion**
 Basic and advanced optimization algorithms show consistently high results on the target metric. However, the use of basic algorithms even in a small space to search for the best optimization parameters takes a huge time period, which cannot be said about advanced ones.
 
-:arrow_up:[к оглавлению](https://github.com/  #Contents)
+:arrow_up:[back to contents](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#contents) #Contents)

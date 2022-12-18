@@ -1,7 +1,7 @@
 # __Model hyperparameter optimization__
 
 ### __Contents__
-[1. Description](https://github.com/Alekaran/SF-DS-Alekaran/)<br>
+[1. Description]([https://github.com/Alekaran/SF-DS-Alekaran/](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#contents))<br>
 
 [2. Target metric]()
 

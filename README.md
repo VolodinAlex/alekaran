@@ -48,4 +48,4 @@ With the help of optimization algorithms, it was possible to increase the result
 ### **7. Conclusion**
 Basic and advanced optimization algorithms show consistently high results on the target metric. However, the use of basic algorithms even in a small space to search for the best optimization parameters takes a huge time period, which cannot be said about advanced ones.
 
-:arrow_up:[back to contents](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#contents) #Contents)
+:arrow_up:[back to contents](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#contents #Contents)

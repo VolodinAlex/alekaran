@@ -1,9 +1,9 @@
 # __Model hyperparameter optimization__
 
 ### __Contents__
-[1. Description]([https://github.com/Alekaran/SF-DS-Alekaran/](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#contents))<br>
+[1. Description](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#contents)<br>
 
-[2. Target metric]()
+[2. Target metric](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#2-target-metric)
 
 [3. Tasks](https://github.com/Alekaran/SF-DS-Alekaran/blob/main/project_0/my_game/ReadMe.md#2-%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)<br>
 

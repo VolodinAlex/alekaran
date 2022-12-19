@@ -7,19 +7,19 @@ This project has two solutions:
 
 
 ### __Contents__
-[1. Description](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#1-description)<br>
+[1. Description](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS-ms/Project%204.%20Classification#1-description)<br>
 
-[2. Target metric](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#2-target-metric)
+[2. Target metric](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS-ms/Project%204.%20Classification#2-target-metric)
 
-[3. Tasks](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#3-tasks)<br>
+[3. Tasks](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS-ms/Project%204.%20Classification#3-tasks)<br>
 
-[4. About data](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#4-about-data)<br>
+[4. About data](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS-ms/Project%204.%20Classification#4-about-data)<br>
 
 [5. Stages](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#5-stages)<br>
 
-[6. Results](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#6-results)<br>
+[6. Results](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS-ms/Project%204.%20Classification#5-stages)<br>
 
-[7. Conclusion](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#conclusion)<br>
+[7. Conclusion](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS-ms/Project%204.%20Classification#7-conclusion)<br>
 
 
 ![](https://inteligencia-analitica.com/wp-content/uploads/2017/09/Random-Forest_750.png)
@@ -77,4 +77,4 @@ In the course of the current work, complex processing of the provided data was c
 ### **7. Conclusion**
 Using the constructed machine learning model, it is possible to predict with high accuracy for a particular client how likely a deposit will be taken.
 
-:arrow_up:[back to contents](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#contents)
+:arrow_up:[back to contents](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS-ms/Project%204.%20Classification#contents)

@@ -3,7 +3,7 @@
 ### __Remark__
 This project has two solutions:
 - [BASELINE](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/Project%204.%20Classification/PJ%204.%20Classification.%20BASELINE.ipynb) - performance of the task strictly within the specified framework and conditions.
-- [UPDATE]() - an attempt to improve the predictive ability of the model.
+- [UPDATE](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/Project%204.%20Classification/PJ%204.%20Classification.%20UPDARE.ipynb) - an attempt to improve the predictive ability of the model.
 
 
 ### __Contents__

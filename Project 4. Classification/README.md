@@ -2,8 +2,8 @@
 
 ### __Remark__
 This project has two solutions:
-- [BASELINE](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/Project%204.%20Classification/PJ%204.%20Classification.%20BASELINE.ipynb) - performance of the task strictly within the specified framework and conditions.
-- [UPDATE](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/Project%204.%20Classification/PJ%204.%20Classification.%20UPDATE.ipynb) - an attempt to improve the predictive ability of the model.
+- [BASELINE](https://github.com/VolodinAlex/alekaran/blob/AlekaranDS/Project%204.%20Classification/PJ%204.%20Classification.%20BASELINE.ipynb) - performance of the task strictly within the specified framework and conditions.
+- [UPDATE](https://github.com/VolodinAlex/alekaran/blob/AlekaranDS/Project%204.%20Classification/PJ%204.%20Classification.%20UPDATE.ipynb) - an attempt to improve the predictive ability of the model.
 
 
 ### __Contents__

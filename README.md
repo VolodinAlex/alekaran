@@ -6,7 +6,7 @@
 
 [Project 3]()<br>
 
-[Projecct 4](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS-ms/Project%204.%20Classification)<br>
+[Projecct 4](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%204.%20Classification)<br>
 
 [Hyperparameter optiization](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS-ms/Hyperparameter%20optimization)<br>
 

@@ -1,19 +1,19 @@
 # __Model hyperparameter optimization__
 
 ### __Contents__
-[1. Description](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#1-description)<br>
+[1. Description](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hyperparameter%20optimization#1-description)<br>
 
-[2. Target metric](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#2-target-metric)
+[2. Target metric](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hyperparameter%20optimization#2-target-metric)
 
-[3. Tasks](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#3-tasks)<br>
+[3. Tasks](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hyperparameter%20optimization#3-tasks)<br>
 
-[4. About data](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#4-about-data)<br>
+[4. About data](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hyperparameter%20optimization#4-about-data)<br>
 
-[5. Stages](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#5-stages)<br>
+[5. Stages](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hyperparameter%20optimization#5-stages)<br>
 
-[6. Results](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#6-results)<br>
+[6. Results](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hyperparameter%20optimization#6-results)<br>
 
-[7. Conclusion](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#conclusion)<br>
+[7. Conclusion](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hyperparameter%20optimization#7-conclusion)<br>
 
 ![](https://miro.medium.com/max/1400/1*2gsysrNnSD-n8HDCHmpZFw.jpeg)
 
@@ -48,4 +48,4 @@ With the help of optimization algorithms, it was possible to increase the result
 ### **7. Conclusion**
 Basic and advanced optimization algorithms show consistently high results on the target metric. However, the use of basic algorithms even in a small space to search for the best optimization parameters takes a huge time period, which cannot be said about advanced ones.
 
-:arrow_up:[back to contents](https://github.com/AlekaranDS/alekaran/blob/AlekaranDS-ms/README.md#contents)
+:arrow_up:[back to contents](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hyperparameter%20optimization#contents)

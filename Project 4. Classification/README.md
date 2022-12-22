@@ -15,7 +15,7 @@ This project has two solutions:
 
 [4. About data](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%204.%20Classification#4-about-data)<br>
 
-[5. Stages]https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%204.%20Classification#5-stages)<br>
+[5. Stages](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%204.%20Classification#5-stages)<br>
 
 [6. Results](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%204.%20Classification#6-results)<br>
 

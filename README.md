@@ -10,6 +10,6 @@
 
 [Hyperparameter optiization](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS-ms/Hyperparameter%20optimization)<br>
 
-[Viaualization]()<br>
+[The art of visualization](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/The%20art%20of%20visualization)<br>
 
 []()<br>

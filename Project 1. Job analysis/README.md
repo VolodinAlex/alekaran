@@ -4,15 +4,15 @@
 This project ended a huge layer of studying python. Its main meaning is to work out various ways of data processing.
 
 ### __Contents__
-[1. Description]()<br>
+[1. Description](https://github.com/VolodinAlex/alekaran/blob/AlekaranDS/Project%201.%20Job%20analysis/README.md#description)<br>
 
-[2. Tasks]()<br>
+[2. Tasks](https://github.com/VolodinAlex/alekaran/blob/AlekaranDS/Project%201.%20Job%20analysis/README.md#tasks)<br>
 
-[3. About data]()<br>
+[3. About data](https://github.com/VolodinAlex/alekaran/blob/AlekaranDS/Project%201.%20Job%20analysis/README.md#about-data)<br>
 
-[4. Stages]()<br>
+[4. Stages](https://github.com/VolodinAlex/alekaran/blob/AlekaranDS/Project%201.%20Job%20analysis/README.md#stages)<br>
 
-[5. Conclusion]()<br>
+[5. Conclusion](https://github.com/VolodinAlex/alekaran/blob/AlekaranDS/Project%201.%20Job%20analysis/README.md#conclusion)<br>
 
 ![](https://excelkid.com/wp-content/uploads/2022/04/how-to-clean-data-in-Excel.png)
 
@@ -48,4 +48,4 @@ It is necessary to carry out primary data processing - to prepare features, find
 ### **Conclusion**
 The data is prepared for further use to build a model.
 
-:arrow_up:[to contents]()
+:arrow_up:[to contents](https://github.com/VolodinAlex/alekaran/blob/AlekaranDS/Project%201.%20Job%20analysis/README.md#contents)

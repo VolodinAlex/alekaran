@@ -1,17 +1,17 @@
 # __A/B-testing__
 
 ### __Contents__
-[1. Description]()<br>
+[1. Description](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%202.%20AB%20testing#1-description)<br>
 
-[2. Tasks]()<br>
+[2. Tasks](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%202.%20AB%20testing#2-tasks)<br>
 
-[3. About data]()<br>
+[3. About data](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%202.%20AB%20testing#3-about-data)<br>
 
-[4. Stages]()<br>
+[4. Stages](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%202.%20AB%20testing#4-stages)<br>
 
-[5. Results]()<br>
+[5. Results](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%202.%20AB%20testing#5-results)<br>
 
-[6. Conclusion]()<br>
+[6. Conclusion](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%202.%20AB%20testing#6-conclusion)<br>
 
 ![](https://cdn2.hubspot.net/hubfs/242200/AB%20Testing.png)
 
@@ -45,4 +45,4 @@ AB testing was carried out, conclusions were drawn about the effectiveness of th
 ### **6. Conclusion**
 the second version of the landing page is preferable, because in the absence of a difference in conversion (performing a target action), it has a clear advantage in the size of the average check.
 
-:arrow_up:[back to contents]()
+:arrow_up:[back to contents](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%202.%20AB%20testing#contents)

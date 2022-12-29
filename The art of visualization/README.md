@@ -1,17 +1,17 @@
 # __The art of visualization__
 
 ### __Contents__
-[1. Description](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS/The%20art%20of%20visualization#1-description)<br>
+[1. Description](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/The%20art%20of%20visualization#1-description)<br>
 
-[2. Tasks](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS/The%20art%20of%20visualization#2-tasks)<br>
+[2. Tasks](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/The%20art%20of%20visualization#2-tasks)<br>
 
-[3. About data](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS/The%20art%20of%20visualization#3-about-data)<br>
+[3. About data](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/The%20art%20of%20visualization#3-about-data)<br>
 
-[4. Stages](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS/The%20art%20of%20visualization#4-stages)<br>
+[4. Stages](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/The%20art%20of%20visualization#4-stages)<br>
 
-[5. Results](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS/The%20art%20of%20visualization#5-results)<br>
+[5. Results](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/The%20art%20of%20visualization#5-results)<br>
 
-[6. Conclusion](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS/The%20art%20of%20visualization#6-conclusion)<br>
+[6. Conclusion](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/The%20art%20of%20visualization#6-conclusion)<br>
 
 ![](https://www.powerslide.io/hs-fs/hubfs/DAtA%20vis_Plan%20de%20travail%201.png?width=2500&name=DAtA%20vis_Plan%20de%20travail%201.png)
 
@@ -52,4 +52,4 @@ Ten detailed graphs were constructed with detailed findings for each.
 ### **6. Conclusion**
 Several groups of clients have been identified that are most likely to leave. Recommendations are given to improve customer focus.
 
-:arrow_up:[back to contents](https://github.com/AlekaranDS/alekaran/tree/AlekaranDS/The%20art%20of%20visualization#contents)
+:arrow_up:[back to contents](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/The%20art%20of%20visualization#contents)

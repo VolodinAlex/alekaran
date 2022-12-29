@@ -6,7 +6,7 @@
 
 [Project 3. Kaggle competition]()<br>
 
-[Project 4](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%204.%20Classification)<br>
+[Project 4. Classification](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%204.%20Classification)<br>
 
 [The art of visualization](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/The%20art%20of%20visualization)<br>
 

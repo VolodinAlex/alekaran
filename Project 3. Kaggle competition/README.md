@@ -5,19 +5,19 @@ This learning project is based on a [Kaggle competition](https://www.kaggle.com/
 I reached 7th place in this competition.
 
 ### __Contents__
-[1. Description]()<br>
+[1. Description](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%203.%20Kaggle%20competition#1-description)<br>
 
-[2. Task]()
+[2. Task](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%203.%20Kaggle%20competition#2-task)
 
-[3. Target metric]()<br>
+[3. Target metric](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%203.%20Kaggle%20competition#3-target-metric)<br>
 
-[4. About data]()<br>
+[4. About data](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%203.%20Kaggle%20competition#4-about-data)<br>
 
-[5. Stages]()<br>
+[5. Stages](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%203.%20Kaggle%20competition#5-stages)<br>
 
-[6. Results]()<br>
+[6. Results](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%203.%20Kaggle%20competition#6-results)<br>
 
-[7. Conclusion]()<br>
+[7. Conclusion](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%203.%20Kaggle%20competition#7-conclusion)<br>
 
 ![](https://i1.wp.com/blog.keycafe.com/wp-content/uploads/2019/05/screen-shot-2017-10-24-at-9-54-22-am.png?fit=1091%2C500&ssl=1)
 
@@ -64,4 +64,4 @@ With the help of full-fledged work with each feature, a machine learning model w
 
 [![KAGGLE.png](https://i.postimg.cc/L6Y67wzy/KAGGLE.png)](https://postimg.cc/6yKX4HbR)
 
-:arrow_up:[back to contents]()
+:arrow_up:[back to contents](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%203.%20Kaggle%20competition#contents)

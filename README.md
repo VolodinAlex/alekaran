@@ -4,7 +4,7 @@
 
 [Project 2. AB testing](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%202.%20AB%20testing)
 
-[Project 3. Kaggle competition]()<br>
+[Project 3. Kaggle competition](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%203.%20Kaggle%20competition)<br>
 
 [Project 4. Classification](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%204.%20Classification)<br>
 

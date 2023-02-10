@@ -1,19 +1,19 @@
 # __Project 5: New York City Taxi Trip Duration__
 
 ### __Contents__
-[1. Description]()<br>
+[1. Description](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%205.%20New%20York%20Taxi#1-description)<br>
 
-[2. Target metric]()
+[2. Target metric](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%205.%20New%20York%20Taxi#2-target-metric)
 
-[3. Tasks]()<br>
+[3. Tasks](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%205.%20New%20York%20Taxi#3-tasks)<br>
 
-[4. About data]()<br>
+[4. About data](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%205.%20New%20York%20Taxi#4-about-data)<br>
 
-[5. Stages]()<br>
+[5. Stages](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%205.%20New%20York%20Taxi#5-stages)<br>
 
-[6. Results]()<br>
+[6. Results](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%205.%20New%20York%20Taxi#6-results)<br>
 
-[7. Conclusion]()<br>
+[7. Conclusion](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%205.%20New%20York%20Taxi#7-conclusion)<br>
 
 ![](https://img.freepik.com/premium-vector/taxi-set-in-the-doodle-hand-drawn-style_341076-229.jpg?w=2000)
 
@@ -58,4 +58,4 @@ In the course of the current work, complex processing of the provided data was c
 The best result was shown by the gradient boosting model. The median absolute error of the model is less than 2 minutes.  
 Score: 0.39456
 
-:arrow_up:[back to contents]()
+:arrow_up:[back to contents](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%205.%20New%20York%20Taxi#contents)

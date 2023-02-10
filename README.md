@@ -8,6 +8,8 @@
 
 [Project 4. Classification](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%204.%20Classification)<br>
 
+[Project 5. New York Taxi Trip Duration](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%205.%20New%20York%20Taxi#project-5-new-york-city-taxi-trip-duration)
+
 [The art of visualization](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/The%20art%20of%20visualization)<br>
 
 [Hyperparameter optiization](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hyperparameter%20optimization)<br>

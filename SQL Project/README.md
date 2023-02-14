@@ -2,15 +2,15 @@
 
 
 ### __Contents__
-[1. Description]()<br>
+[1. Description](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/SQL%20Project#1-description)<br>
 
-[2. Tasks]()<br>
+[2. Tasks](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/SQL%20Project#2-tasks)<br>
 
-[3. About data]()<br>
+[3. About data](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/SQL%20Project#3-about-data)<br>
 
-[4. Stages]()<br>
+[4. Stages](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/SQL%20Project#4-stages)<br>
 
-[5. Conclusion]()<br>
+[5. Conclusion](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/SQL%20Project#5-conclusion)<br>
 
 
 ![](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/SQL-Coding-Class-San-Francisco-1.jpeg)
@@ -37,4 +37,4 @@ All required tables are in the public database schema below.
 ### **5. Conclusion**
 Finding a first job for a budding Data Scientist will be extremely difficult.
 
-:arrow_up:[back to contents]()
+:arrow_up:[back to contents](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/SQL%20Project#contents)

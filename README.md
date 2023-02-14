@@ -10,6 +10,8 @@
 
 [Project 5. New York Taxi Trip Duration](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%205.%20New%20York%20Taxi#project-5-new-york-city-taxi-trip-duration)
 
+[SQL Project](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/SQL%20Project#sql-project)
+
 [The art of visualization](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/The%20art%20of%20visualization)<br>
 
 [Hyperparameter optiization](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hyperparameter%20optimization)<br>

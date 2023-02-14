@@ -25,7 +25,7 @@ It is necessary to analyze vacancies from the HeadHunter job search aggregator u
 
 ### **3. About data**
 All required tables are in the public database schema below.
-[SQL-Project.png](https://postimg.cc/BtvxGDqq)
+[![SQL-Project.png](https://i.postimg.cc/tR3DWtwV/SQL-Project.png)](https://postimg.cc/BtvxGDqq)
 
 ### **4. Stages**
 - Preliminary data analysis

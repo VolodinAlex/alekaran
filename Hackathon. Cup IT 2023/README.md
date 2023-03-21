@@ -2,19 +2,19 @@
 
 ### __Содержание__
 
-[1. Описание]()<br>
+[1. Описание](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hackathon.%20Cup%20IT%202023#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)<br>
 
-[2. Целевая метрика]()
+[2. Целевая метрика](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hackathon.%20Cup%20IT%202023#2-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0)
 
-[3. Задачи]()<br>
+[3. Задачи](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hackathon.%20Cup%20IT%202023#3-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)<br>
 
-[4. Данные]()<br>
+[4. Данные](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hackathon.%20Cup%20IT%202023#4-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5)<br>
 
-[5. Этапы]()<br>
+[5. Этапы](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hackathon.%20Cup%20IT%202023#5-%D1%8D%D1%82%D0%B0%D0%BF%D1%8B)<br>
 
-[6. Результаты]()<br>
+[6. Результаты](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hackathon.%20Cup%20IT%202023#6-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)<br>
 
-[7. Выводы]()<br>
+[7. Выводы](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hackathon.%20Cup%20IT%202023#7-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)<br>
 
 ![](https://i.postimg.cc/rFCHLvgS/CUP-IT.jpg)
 
@@ -55,4 +55,4 @@
 ### **7. Выводы**
 Сделаны выводы по проведенному анализу текста комментариев и постов, даны рекомендации комментаторам для повышения рейтинга комментариев.
 
-:arrow_up:[к содержанию]()
+:arrow_up:[к содержанию](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hackathon.%20Cup%20IT%202023#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)

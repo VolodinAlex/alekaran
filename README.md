@@ -16,4 +16,6 @@
 
 [Hyperparameter optiization](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hyperparameter%20optimization)<br>
 
+[Hackathon CUP IT 2023](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hackathon.%20Cup%20IT%202023)<br>
+
 []()<br>

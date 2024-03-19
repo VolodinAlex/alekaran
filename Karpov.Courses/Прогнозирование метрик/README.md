@@ -1,17 +1,17 @@
 # __Прогнозирование метрик__
 
 ### __Разделы__
-[1. Задача 1]()<br>
+[1. Задача 1](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA#1-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1)<br>
 
-[2.Задача 2]()<br>
+[2.Задача 2](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA#2-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2)<br>
 
-[3. Цели]()<br>
+[3. Цели](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA#2-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2)<br>
 
-[4. Результаты]()<br>
+[4. Результаты](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA#2-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2)<br>
 
-[5. Выводы]()<br>
+[5. Выводы](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA#2-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2)<br>
 
-![](https://habrastorage.org/getpro/habr/upload_files/d78/4c0/3ae/d784c03ae6414641df5aa78c6047ac17.png)
+![](https://filearchive.cnews.ru/img/book/2022/06/23/e40bb5886f60aab3dbd6647ade5248b1.png)
 
 ### __1. Задача 1__
 Для этого наша команда маркетологов решила организовать флэшмоб в ленте новостей: участники должны сделать пост, где они рассказывают какой-то интересный факт о себе, и опубликовать его с хэштегом. Три поста, собравших наибольшее число лайков, получают призы.
@@ -27,11 +27,11 @@
 2) Предиктивная аналитика активности пользователей - выбор метрики и предикторов, построение модели и ее валидация, бэктестинг и выбор лучшей модели.
 
 
-### **5. Результаты**
+### **4. Результаты**
 Проведен математический и визуальный анализ проделанной работы. 
 
-### **6. Выводы**
+### **5. Выводы**
 Оценено влияние флэшмоба на базовые метрики, в том числе долгосрочно. 
 Интерпратация полученных результатов в ноутбуках.
 
-:arrow_up:[back to contents]()
+:arrow_up:[back to contents](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA#%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8B)

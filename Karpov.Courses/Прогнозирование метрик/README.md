@@ -3,7 +3,7 @@
 ### __Разделы__
 [1. Задача 1](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA#1-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1)<br>
 
-[2.Задача 2](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA#2-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2)<br>
+[2. Задача 2](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA#2-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2)<br>
 
 [3. Цели](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA#2-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2)<br>
 

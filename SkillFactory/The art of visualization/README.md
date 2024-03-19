@@ -1,5 +1,7 @@
 # __The art of visualization__
 
+![](https://raw.githubusercontent.com/cldougl/plot_images/add_r_img/plotly_2017.png)
+
 ### __Contents__
 [1. Description](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/The%20art%20of%20visualization#1-description)<br>
 

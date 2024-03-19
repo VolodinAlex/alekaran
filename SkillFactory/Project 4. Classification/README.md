@@ -72,7 +72,7 @@ F1-score is our core metric for comparing result.
 ### **6. Results**
 In the course of the current work, complex processing of the provided data was carried out and several machine learning models were built. Target metric reached:
 - Baseline F1-score = 0.8170
-- Update F1 score = 0.8550
+- Update F1-score = 0.8550
 
 ### **7. Conclusion**
 Using the constructed machine learning model, it is possible to predict with high accuracy for a particular client how likely a deposit will be taken.

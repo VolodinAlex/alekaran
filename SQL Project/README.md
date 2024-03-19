@@ -1,5 +1,6 @@
 # __SQL Project__
 
+![]([https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/SQL-Coding-Class-San-Francisco-1.jpeg](https://static.tildacdn.one/tild6262-6661-4034-b164-383063636462/What_is_SQL_Database.png))
 
 ### __Contents__
 [1. Description](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/SQL%20Project#1-description)<br>

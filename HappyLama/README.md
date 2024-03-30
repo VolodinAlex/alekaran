@@ -4,6 +4,7 @@
 [HappyLama](https://t.me/HappyLama_vetproducts) — ветеринарная онлайн-аптека в Тбилиси (Грузия).  
 Создана автоматизированная система учета препаратов на базе [Google Sheets](https://www.google.com/sheets/about/) с учетом остатков, списывания проданных и добавления новых, а также полноценная система аналитики. Предоставлена демонстративная версия созданной мной системы учета. 
 * Все данные внутри созданы искусственно и не отражают реальные метрики продукта!
+[![image.png](https://i.postimg.cc/Xq0B5C3F/image.png)](https://postimg.cc/KkJYS41v)
 
 [Ветеринарная онлайн-аптека Демо](https://docs.google.com/spreadsheets/d/1Sn59xFjlPfg8_xuweihIqL_it1Y7l3HHdHXW6qaaM_c/edit?usp=sharing)
 

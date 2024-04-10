@@ -1,13 +1,13 @@
 # __Аналитическая сводка в телеграм__
 
 ### __Разделы__
-[1. Задача]()<br>
+[1. Задача](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8#1-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0)<br>
 
-[2. Метрики]()<br>
+[2. Метрики](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8#2-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8)<br>
 
-[3. Этапы]()<br>
+[3. Этапы](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8#3-%D1%8D%D1%82%D0%B0%D0%BF%D1%8B)<br>
 
-[4. Результаты]()<br>
+[4. Результаты](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8#4-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)<br>
 
 ![](https://bigdataschool.ru/wp-content/uploads/2023/10/airfelk0.png)
 
@@ -30,4 +30,4 @@
 
 ![](https://i.ibb.co/b3xdhrC/image.png)
 
-:arrow_up:[back to contents]()
+:arrow_up:[back to contents](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8#%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8B)

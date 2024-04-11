@@ -1,21 +1,21 @@
 # __MY projects and works__
 
-[Project 1. Job analysis](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%201.%20Job%20analysis)<br>
+[Beezon Logistics](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Beezon%20Logistics#beezon-logistics)<br>
 
-[Project 2. AB testing](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%202.%20AB%20testing)
+[Hackathon. Cup IT 2023](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hackathon.%20Cup%20IT%202023#%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82-%D1%85%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%D0%B0-changellenge--cup-it-2023)
 
-[Project 3. Kaggle competition](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%203.%20Kaggle%20competition)<br>
+[HappyLama](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/HappyLama#happylama)<br>
 
-[Project 4. Classification](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%204.%20Classification)<br>
+[AB-тестирование](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/AB-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5#%D0%B0%D0%B2-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)<br>
 
-[Project 5. New York Taxi Trip Duration](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Project%205.%20New%20York%20Taxi#project-5-new-york-city-taxi-trip-duration)
+[Автоматизация отчетности](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%81%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0-%D0%B2-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC)<br>
 
-[SQL Project](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/SQL%20Project#sql-project)
+[Система алертов](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Karpov.Courses/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%B0%D0%BB%D0%B5%D1%80%D1%82%D0%BE%D0%B2#%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%B0%D0%BB%D0%B5%D1%80%D1%82%D0%BE%D0%B2)<br>
 
-[The art of visualization](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/The%20art%20of%20visualization)<br>
+[Визуализация](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/SkillFactory/The%20art%20of%20visualization#the-art-of-visualization)<br>
 
-[Hyperparameter optiization](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hyperparameter%20optimization)<br>
+[Задача классификации](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/SkillFactory/Project%204.%20Classification#project-4-classification)<br>
 
-[Hackathon CUP IT 2023](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS/Hackathon.%20Cup%20IT%202023)<br>
 
-[]()<br>
+
+
